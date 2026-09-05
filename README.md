@@ -7,3 +7,5 @@ com.gunuppapa.speedMath
 점프왕 (JumpKing) - 원버튼 점프 액션!
 com.gunuppapa.jumpking
 
+플립 매치 파티-그림 짝 맞추기 게임
+com.gunuppapa.FlipMatchParty
