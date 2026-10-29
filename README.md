@@ -9,3 +9,6 @@ com.gunuppapa.jumpking
 
 플립 매치 파티-그림 짝 맞추기 게임
 com.gunuppapa.FlipMatchParty
+
+갈래말래-오늘 날씨 여행 캠핑 준비
+com.gunuppapa.weather
